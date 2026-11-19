@@ -1,0 +1,16 @@
+experiment: lr0
+model:
+  dropout: 0.003563863479620427
+  hidden: 348
+  n_layers: 3
+runtime:
+  device: cpu
+  num_threads: 1
+seed: 0
+series: optuna_search
+split_seed: 0
+train:
+  batch_size: 128
+  epochs: 30
+  lr: 0.002839436807441608
+  weight_decay: 2.1535558291424097e-05

@@ -1,0 +1,16 @@
+{
+  "run_id": "20261118_145232_b6dcfaa30751",
+  "series": "final_best",
+  "status": "completed",
+  "start_time": "2026-11-18T14:52:32.866353+00:00",
+  "end_time": "2026-11-18T14:52:33.903285+00:00",
+  "commit": "87d718c74f7a32563b95f59e4ecad6d3c77adaca",
+  "python_version": "3.14.7",
+  "torch_version": "2.15.0",
+  "sklearn_version": "1.9.1",
+  "optuna_version": "5.1.0",
+  "mlflow_version": "3.7.0",
+  "num_threads": 1,
+  "seed": 103,
+  "split_sha256": "64574dc86b83d1a67774d1d23ca76c4ad872de6cdc6b8fec721bc909cfc503b7"
+}
